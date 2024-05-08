@@ -2,7 +2,7 @@
 
 ## Product JSON
 
-Here,i written the MongoDB queries for following questions :
+Here,i wrote the MongoDB queries for following questions :
 
  1. Find all the information about each products
  2. Find the product price which are between 400 to 800
